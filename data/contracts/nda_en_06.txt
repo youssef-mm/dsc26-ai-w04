@@ -1,0 +1,29 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement is made on 20 May 2026 between Hisn Security Services S.A.E., of 3 Gameat El Dowal El Arabeya, Mohandessin, Giza and Bayyina Legal Technologies LLC, of 18 Hassan Sabry Street, Zamalek, Cairo (each a "Party"), who wish to exchange information to evaluate a possible joint offering of security reviews for law firms.
+
+Clause 1. Definitions
+In this Agreement, unless the context requires otherwise, "Business Day" means a day other than Friday, Saturday or an official public holiday in the Arab Republic of Egypt; "Confidential Information" has the meaning given in the confidentiality clause; and "Effective Date" means the date on which the last party signs this Agreement. Headings are for convenience only and do not affect interpretation. Words in the singular include the plural and the other way round.
+
+Clause 2. Term
+This Agreement starts on the Effective Date and continues for an initial period of two years from that date (the "Initial Term"), unless it is ended earlier in accordance with its provisions. The parties agree that the Initial Term has been chosen to allow the receiving Party to recover its set-up costs, and that the duration of the Agreement shall not be shortened by any change in the volume of orders placed.
+
+Clause 3. Confidentiality Obligations
+Each party shall keep confidential all technical, commercial and financial information disclosed to it by the other party and shall not disclose it to any third party or use it for any purpose other than performing this Agreement. This obligation does not apply to information that is or becomes public other than through a breach of this clause, and it survives for seven years after this Agreement ends.
+
+Clause 4. Limitation of Liability
+Except in the case of fraud, wilful misconduct or death or personal injury caused by negligence, the total aggregate liability of the receiving Party arising out of or in connection with this Agreement, whether in contract, tort or otherwise, shall not exceed EGP 1,000,000. Neither party shall be liable to the other for any loss of profit, loss of business, loss of data or any indirect or consequential loss, even if it was advised that such loss was possible.
+
+Clause 5. Termination
+Either party may terminate this Agreement for convenience by giving the other party not less than 15 days' written notice. Either party may terminate this Agreement with immediate effect by written notice if the other party commits a material breach and fails to remedy it within thirty days of being asked to do so, or if the other party becomes insolvent, enters into liquidation or ceases to carry on business. Termination does not affect rights and obligations that accrued before it.
+
+Clause 6. Notices
+Any notice under this Agreement shall be in writing and delivered by hand, by courier or by email to the address of the receiving party set out at the head of this Agreement, or to another address that party has notified in writing. A notice delivered by email is deemed received on the next Business Day.
+
+Clause 7. Governing Law and Jurisdiction
+This Agreement and any dispute or claim arising out of it shall be governed by and construed in accordance with the laws of the Arab Republic of Egypt. The parties irrevocably submit to the exclusive jurisdiction of the Cairo Economic Court to settle any dispute that cannot be resolved amicably within thirty days of one party notifying the other of it.
+
+Clause 8. Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, promises and understandings between them relating to its subject matter. No amendment to this Agreement is effective unless it is in writing and signed by both parties.
+
+Signed in two originals, one for each party.

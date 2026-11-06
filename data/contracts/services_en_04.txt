@@ -1,0 +1,44 @@
+SOFTWARE DEVELOPMENT SERVICES AGREEMENT
+
+This Services Agreement is made on 2 March 2026 between Rawaj Pay S.A.E., of Smart Village, Building B12, Giza (the "Client") and Codeforge Studios LLC, of 7 Abbas El Akkad Street, Nasr City, Cairo (the "Supplier"), for the design and delivery of a merchant onboarding portal.
+
+Clause 1. Definitions
+In this Agreement, unless the context requires otherwise, "Business Day" means a day other than Friday, Saturday or an official public holiday in the Arab Republic of Egypt; "Confidential Information" has the meaning given in the confidentiality clause; and "Effective Date" means the date on which the last party signs this Agreement. Headings are for convenience only and do not affect interpretation. Words in the singular include the plural and the other way round.
+
+Clause 2. Term
+This Agreement starts on the Effective Date and continues for an initial period of eighteen months from that date (the "Initial Term"), unless it is ended earlier in accordance with its provisions. The parties agree that the Initial Term has been chosen to allow the Supplier to recover its set-up costs, and that the duration of the Agreement shall not be shortened by any change in the volume of orders placed.
+
+Clause 3. Payment Terms
+the Client shall pay each undisputed invoice within 30 days of receiving it, by bank transfer to the account named on the invoice, in Egyptian pounds. Late payments carry interest at the Central Bank of Egypt's discount rate plus two per cent per year from the due date until the date of payment. A party that disputes an invoice in good faith shall pay the undisputed part and give reasons in writing.
+
+Clause 4. Liquidated Damages
+If the Supplier fails to meet a delivery or completion date agreed under this Agreement, the Supplier shall pay the Client liquidated damages of EGP 20,000 for each week of delay, up to a maximum of ten per cent of the value of the affected order. The parties agree that this amount is a genuine pre-estimate of the loss the Client is likely to suffer and is not a penalty.
+
+Clause 5. Intellectual Property
+All intellectual property rights in the deliverables created by the Supplier specifically for the Client under this Agreement shall vest in the Client upon full payment. the Supplier keeps ownership of its pre-existing tools, know-how and materials and grants the Client a non-exclusive, perpetual licence to use them as part of the deliverables.
+
+Clause 6. Confidentiality
+Each party shall keep confidential all technical, commercial and financial information disclosed to it by the other party and shall not disclose it to any third party or use it for any purpose other than performing this Agreement. This obligation does not apply to information that is or becomes public other than through a breach of this clause, and it survives for five years after this Agreement ends.
+
+Clause 7. Limitation of Liability
+Except in the case of fraud, wilful misconduct or death or personal injury caused by negligence, the total aggregate liability of the Supplier arising out of or in connection with this Agreement, whether in contract, tort or otherwise, shall not exceed the fees paid by the Client under this Agreement in the six months before the claim. Neither party shall be liable to the other for any loss of profit, loss of business, loss of data or any indirect or consequential loss, even if it was advised that such loss was possible.
+
+Clause 8. Termination
+Either party may terminate this Agreement for convenience by giving the other party not less than 30 days' written notice. Either party may terminate this Agreement with immediate effect by written notice if the other party commits a material breach and fails to remedy it within thirty days of being asked to do so, or if the other party becomes insolvent, enters into liquidation or ceases to carry on business. Termination does not affect rights and obligations that accrued before it.
+
+Clause 9. Force Majeure
+Neither party is in breach of this Agreement nor liable for any delay in performing its obligations if the delay results from events beyond its reasonable control, including floods, fire, epidemics, war, governmental action or a general failure of the electricity or telecommunications networks. If such an event continues for more than sixty days, either party may end this Agreement by written notice.
+
+Clause 10. Assignment
+Neither party may assign, transfer or subcontract any of its rights or obligations under this Agreement without the prior written consent of the other party, which shall not be unreasonably withheld. Any purported assignment in breach of this clause is void.
+
+Clause 11. Notices
+Any notice under this Agreement shall be in writing and delivered by hand, by courier or by email to the address of the receiving party set out at the head of this Agreement, or to another address that party has notified in writing. A notice delivered by email is deemed received on the next Business Day.
+
+Clause 12. Governing Law and Jurisdiction
+This Agreement and any dispute or claim arising out of it shall be governed by and construed in accordance with the laws of the Arab Republic of Egypt. The parties irrevocably submit to the exclusive jurisdiction of the Giza Economic Court to settle any dispute that cannot be resolved amicably within thirty days of one party notifying the other of it.
+
+Clause 13. Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, promises and understandings between them relating to its subject matter. No amendment to this Agreement is effective unless it is in writing and signed by both parties.
+
+Signed in two originals, one for each party.

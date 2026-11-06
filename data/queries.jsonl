@@ -1,0 +1,12 @@
+{"qid": "q01", "query": "متى يجوز إنهاء عقد التوريد بإخطار كتابي؟", "relevant": [{"doc_id": "supply_ar_01", "start": 2842, "end": 3221}]}
+{"qid": "q02", "query": "حدود مسئولية المورد عن الأضرار", "relevant": [{"doc_id": "supply_ar_01", "start": 1873, "end": 2185}]}
+{"qid": "q03", "query": "How much notice must the Tenant give to terminate the lease?", "relevant": [{"doc_id": "lease_en_02", "start": 2723, "end": 3234}]}
+{"qid": "q04", "query": "rent payment due date and late interest", "relevant": [{"doc_id": "lease_en_02", "start": 1736, "end": 2171}]}
+{"qid": "q05", "query": "مدة عدم المنافسة بعد انتهاء علاقة العمل", "relevant": [{"doc_id": "employ_ar_03", "start": 1521, "end": 1853}]}
+{"qid": "q06", "query": "الشرط الجزائي أجر ستة أشهر", "relevant": [{"doc_id": "employ_ar_03", "start": 1855, "end": 2194}]}
+{"qid": "q07", "query": "who owns the intellectual property in the onboarding portal deliverables", "relevant": [{"doc_id": "services_en_04", "start": 2073, "end": 2451}]}
+{"qid": "q08", "query": "liquidated damages for each week of delay", "relevant": [{"doc_id": "services_en_04", "start": 1669, "end": 2071}]}
+{"qid": "q09", "query": "exclusive territory restriction for the distributor in Upper Egypt", "relevant": [{"doc_id": "distrib_bi_05", "start": 1824, "end": 2606}]}
+{"qid": "q10", "query": "how long do confidentiality obligations survive after the NDA ends", "relevant": [{"doc_id": "nda_en_06", "start": 1309, "end": 1752}]}
+{"qid": "q11", "query": "غرامة تشغيل نسخة غير مرخصة من البرنامج", "relevant": [{"doc_id": "software_ar_07", "start": 2568, "end": 2890}]}
+{"qid": "q12", "query": "governing law and competent court for the agency agreement", "relevant": [{"doc_id": "agency_bi_08", "start": 4242, "end": 4897}]}
